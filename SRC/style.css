@@ -81,7 +81,7 @@ a {
   font-family: sans-serif;
 }
 
-banner-div {
+.banner-div {
   margin-top: 0.6rem;
   position: relative;
 }
@@ -96,8 +96,8 @@ banner-div {
 }
 
 #banner1 {
-  height: 400px;
-  width: 100%;
+  height: 100px;
+  width: 50%;
 }
 
 footer {
