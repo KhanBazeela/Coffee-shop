@@ -17,17 +17,17 @@ h1 {
   font-size: 3rem;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  color: #1c1678;
+  color: #067c68;
 }
 
 i {
   font-size: 3rem;
-  color: #1e8cfa;
+  color: #120a2a;
 }
 
 nav {
   background: #f6f5f2;
-  box-shadow: 0 5px 15px #634b01;
+  box-shadow: 0 5px 15px #7eef1c;
 }
 
 .nav-main {
@@ -81,7 +81,7 @@ a {
   font-family: sans-serif;
 }
 
-.banner-div {
+banner-div {
   margin-top: 0.6rem;
   position: relative;
 }
@@ -96,8 +96,8 @@ a {
 }
 
 #banner1 {
-  height: 100px;
-  width: 50%;
+  height: 400px;
+  width: 100%;
 }
 
 footer {
